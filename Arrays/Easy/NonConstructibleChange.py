@@ -8,7 +8,7 @@ def nonConstructibleChange(coins):
         change +=coin
     return change+1
 
-
+#Input data below
 coins = [5, 7, 1, 1, 2, 3, 22]
 # coins = [1,1,3]
 coins_sol = nonConstructibleChange(coins)
