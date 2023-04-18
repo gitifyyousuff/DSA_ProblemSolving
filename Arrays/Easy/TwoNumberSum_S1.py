@@ -8,7 +8,7 @@ def twoNumberSum(array,target):
                 return [fn,sn]
 
     return []
-#input data below
+#input data below 
 array=[3, 5, -4, 8, 11, 1, -1, 6]
 target =19
 two_numbers = twoNumberSum(array,target)
